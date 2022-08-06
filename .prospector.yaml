@@ -1,0 +1,15 @@
+ignore-patterns:
+  - (^|/)migrations(/|$)
+strictness: medium
+uses:
+  - django
+pyflakes:
+  run: false
+pycodestyle:
+  run: false
+mccabe:
+  run: false
+  
+pylint:
+  disable:
+    - import-outside-toplevel
