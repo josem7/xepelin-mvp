@@ -1,0 +1,3 @@
+#!C:\Users\josed\OneDrive\Desktop\Jose\Trabajo\Xepelin\xepelin\xepelin-mvp\venv\Scripts\python.exe
+from requirements_detector.run import run
+run()
