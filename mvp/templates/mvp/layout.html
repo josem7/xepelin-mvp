@@ -1,0 +1,101 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="es">
+
+  <head>
+    <!-- Google Tag Manager -->
+    {% include 'mvp/components/head.html' %}
+
+  </head>
+
+  <body class="loading" data-layout="topnav" data-layout-config='{"layoutBoxed":false,"darkMode":false,"showRightSidebarOnStart": true}'>
+    <!-- Begin page -->
+    <div class="wrapper">
+      <!-- ============================================================== -->
+      <!-- Start Page Content here -->
+      <!-- ============================================================== -->
+      <div class="content-page">
+        <div class="content">
+          <!-- Topbar Start -->
+          <div class="navbar-custom topnav-navbar">
+            <div class="container-fluid">
+              <!-- LOGO -->
+              <a href="/" class="topnav-logo">
+                <span class="topnav-logo-lg">
+                  <img src="{% static 'logo/xepelin.png' %}" alt="" height="25">
+                </span>
+                <span class="topnav-logo-sm">
+                  <img src="{% static 'logo/xepelin.png' %}" alt="" height="25">
+                </span>
+              </a>
+              <ul class="list-unstyled topbar-menu float-end mb-0">
+                <li class="dropdown notification-list">
+                  <a class="nav-link dropdown-toggle nav-user arrow-none me-0" 
+                  data-bs-toggle="dropdown" id="topbar-userdrop" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                    <span class="account-user-avatar">
+                      <img src="{% static 'logo/xepelin_small.png' %}" alt="user-image" class="rounded-circle">
+                    </span>
+                    <span>
+                      <span class="account-user-name">Pepe</span>
+                      <span class="account-position">Xepelin</span>
+                    </span>
+                  </a>
+                  <div class="dropdown-menu dropdown-menu-right dropdown-menu-animated topbar-dropdown-menu profile-dropdown" aria-labelledby="topbar-userdrop">
+                    <!-- item-->
+                    <a href="{% url 'logout' %}" class="dropdown-item notify-item">
+                      <i class="mdi mdi-logout me-1"></i>
+                      <span>Salir"</span>
+                    </a>
+                  </div>
+                </li>
+              </ul>
+              <a class="navbar-toggle" data-bs-toggle="collapse" data-bs-target="#topnav-menu-content">
+                <div class="lines">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </div>
+              </a>
+            </div>
+          </div>
+          <!-- end Topbar -->
+          <div class="topnav">
+            <div class="container-fluid">
+              <nav class="navbar navbar-dark navbar-expand-lg topnav-menu">
+                <div class="collapse navbar-collapse" id="topnav-menu-content">
+                  <ul class="navbar-nav">
+                  </ul>
+                </div>
+              </nav>
+            </div>
+          </div>
+          <!-- Start Content-->
+          <div class="container-fluid">
+            <!-- start page title -->
+            <div class="row">
+              <div class="col-md-3">
+                <div class="page-title-box">
+                  <h4 class="page-title">MAIN</h4>
+                </div>
+              </div>
+            </div>
+            <!-- end page title -->
+            {% block content %}
+            {% endblock %}
+            <!-- Footer Start -->
+            {% include 'mvp/components/footer.html' %}
+            <!-- end Footer -->
+          </div>
+          <!-- ============================================================== -->
+          <!-- End Page content -->
+          <!-- ============================================================== -->
+        </div>
+        <!-- END wrapper -->
+        {% include 'mvp/components/scripts.html' %}
+
+        <script>
+        </script>
+  </body>
+
+</html>
