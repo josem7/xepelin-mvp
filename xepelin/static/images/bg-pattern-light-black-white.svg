@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <g fill-opacity=".22">
+    <circle fill="#fff" cx="400" cy="400" r="600"/>
+    <circle fill="#eff3ff" cx="400" cy="400" r="500"/>
+    <circle cx="400" cy="400" r="300" style="fill: rgb(197, 197, 197);"/>
+    <circle cx="400" cy="400" r="200" style="fill: rgb(193, 186, 186);"/>
+    <circle cx="400" cy="400" r="100" style="fill: rgb(172, 171, 171);"/>
+  </g>
+</svg>
