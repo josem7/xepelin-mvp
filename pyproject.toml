@@ -5,7 +5,7 @@ description = ""
 authors = ["Jose Dominguez <jndominguez@uc.cl>", "Vicente Espinosa <vtespinosa@uc.cl>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9"
 Django = "^4.0.5"
 psycopg2-binary = "^2.9.3"
 django-extensions = "^3.1.2"
