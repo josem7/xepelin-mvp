@@ -1,61 +1,65 @@
-asgiref @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/22/46/4d/e9d170f76cad59b81e4568f6b37cce88f46df63c197e476a1020862182/asgiref-3.5.2-py3-none-any.whl
-astroid @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/06/d5/8d/5f39226e8657f63d020bbadd213d5fad782e99ed9d3c2e7ac6772a88f4/astroid-2.11.7-py3-none-any.whl
-asttokens @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/c4/d4/80/7a38a41f81b4043fafa74edb0ffe4fff85cf0e7e0e58267e9a59c87fe2/asttokens-2.0.5-py2.py3-none-any.whl
-backcall @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/fb/29/4f/82bf4440abab9ac911c9bce7a071841452e2457539cf29aec0cdb32bf1/backcall-0.2.0-py2.py3-none-any.whl
-black @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/fb/a6/45/0a25cda0ddf0c9449f9e1cbe10d49c46e6afa325b92348dcb523dedaff/black-22.6.0-cp310-cp310-win_amd64.whl
-click @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/63/f3/4c/2270b95f4d37b9ea73cd401abe68b6e9ede30380533cd4e7118a8e3aa3/click-8.1.3-py3-none-any.whl
-colorama @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/c2/16/90/5bd8e7ca5465caa39fb4befd804a6c8a0a281f8f290c3387c173072719/colorama-0.4.5-py2.py3-none-any.whl
-decorator @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/e7/34/b4/d4da5f5611ea34c830b51a6afe76aa0e51493309a0c0f176f5217b6960/decorator-5.1.1-py3-none-any.whl
-dill @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/f7/b9/8c/cca9e9031d347991b7bfc8345ce044a4ec65e0990c95f8297d8177affb/dill-0.3.5.1-py2.py3-none-any.whl
-dj-database-url @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/e0/2e/ea/2b27ceff9e6e08dd6f9b0f803bfff6ac1524c7577ff45366be0110e8b6/dj_database_url-1.0.0-py3-none-any.whl
-Django @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/f6/42/55/34bad728e835f7d80666fd1fdc5adfb229adc3af1eb00ab2e9b80d1c9d/Django-4.1-py3-none-any.whl
-django-extensions @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/f8/23/c1/5b3b6adc1703fac91dbb888b6e8337c6a9a0beaf19b47dd8dccb03c078/django_extensions-3.2.0-py3-none-any.whl
-django-heroku @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/c8/20/07/fd67b6237f5ae8074f4bde6487d3ad0f6694a4839efea9854078cffbf3/django_heroku-0.3.1-py2.py3-none-any.whl
-django-widget-tweaks @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/28/ee/a0/a064fd44c0489e46cfd80ca0c57502bbd3c82acea206ab3858a50d3241/django_widget_tweaks-1.4.12-py3-none-any.whl
-dodgy @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/6d/43/48/0807be80a4113fecbb2fcd426de6ed38b05d5888bc9b8ea2c992a6c515/dodgy-0.2.1-py3-none-any.whl
-executing @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/83/3f/4a/92b1f4bca830ec9ed8414f05edee928e7e2f781d29d97e7995a03d7cfe/executing-0.9.1-py2.py3-none-any.whl
-flake8 @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/0f/48/8d/d4c0eaf2d0cbfe3e75190036d00c7ab13d752e2e9a0242b583e76ee59a/flake8-2.3.0-py2.py3-none-any.whl
-flake8-polyfill @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/94/ed/18/a0bf327df9a14974261491aee203f5a18f9d02dcabf28e5fc17c480a98/flake8_polyfill-1.0.2-py2.py3-none-any.whl
-ipdb==0.13.9
-ipython @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/c3/9c/b8/d89859b52e0757d949819e3dc752cbb3323f0b7f462c0e7c7faa7c9f4a/ipython-8.4.0-py3-none-any.whl
-isort @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/12/e3/f1/e8e484225dcc659de6e4ac34a4ad996cb71f36119e54e71462cc7ad7e8/isort-5.10.1-py3-none-any.whl
-jedi @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/89/0a/c4/538f23985c27b947d71525ea0122d328590341486a672160c2f49614db/jedi-0.18.1-py2.py3-none-any.whl
-lazy-object-proxy @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/f1/54/af/30e73b11958f4d66865f8c912edc95006ede6b68ea16dc897ed295e69b/lazy_object_proxy-1.7.1-cp310-cp310-win_amd64.whl
-matplotlib-inline @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/0e/ab/b5/d5995e289985aaaf901345fe978c0346388a5acc77580c12343fd539cf/matplotlib_inline-0.1.3-py3-none-any.whl
-mccabe @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/a3/d3/68/f7f7115194f6fe8c487def3afa3b089a428f90650cf1b7be71afa83d12/mccabe-0.6.1-py2.py3-none-any.whl
-mypy-extensions @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/2f/c6/09/3e1afdcb75322c65b786e63cd7e879b6be3db36dea78ca376db5483ae4/mypy_extensions-0.4.3-py2.py3-none-any.whl
-parso @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/04/cf/93/db0ec6dfe01dd708f00c55e2af6f87b1c40a7d6db1cc6277e993e02ce9/parso-0.8.3-py2.py3-none-any.whl
-pathspec @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/48/a0/9f/f5128d9e11d591bca7a942dd80ec44f9b2de8294775c68e0b99beeef93/pathspec-0.9.0-py2.py3-none-any.whl
-pep8 @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/28/2a/52/d326834f1e52e5eaf90c5631bbac2ca690fa88ead12e23c604c3bacca1/pep8-1.7.1-py2.py3-none-any.whl
-pep8-naming @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/5d/47/83/89d51b912ce802539f8f8712a96e762cfc59e0857402d4e861e265ff12/pep8_naming-0.10.0-py2.py3-none-any.whl
-pickleshare @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/75/21/72/1a0f0aed0df5b89b08e37fa429335f3a9912304726945b3745e658c6db/pickleshare-0.7.5-py2.py3-none-any.whl
-platformdirs @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/ea/8e/52/e5ac2f14474cef8f0fd44b4aa7d6968bfa89442d1b88ab567c446eae70/platformdirs-2.5.2-py3-none-any.whl
-prompt-toolkit @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/68/7e/da/9de8c45038019d77aab639555a757cfb090d525dba48f099d3fd34b1f5/prompt_toolkit-3.0.30-py3-none-any.whl
-prospector @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/24/b7/3e/1724d137c863e671bf0907df54b10e285a9c6fec01ed297c0150659477/prospector-1.7.7-py3-none-any.whl
-psycopg2 @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/12/04/46/faee961478866aad853f4f8d4401c01c994f024b1976e3112a1fcb8fc9/psycopg2-2.9.3-cp310-cp310-win_amd64.whl
-psycopg2-binary @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/65/00/ae/70244ecead2ba89be8ada99eb57eba92f0007a543fa2e5ab39f5823aff/psycopg2_binary-2.9.3-cp310-cp310-win_amd64.whl
-pure-eval @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/3f/3a/24/0a545171a889b08c24fa379180cac85e1f4e00065002bc19eba65e0b9f/pure_eval-0.2.2-py3-none-any.whl
-pycodestyle @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/67/1d/0b/aa6ec86495f3fc57e748e006fb36d7b4e65ddaf6de336617166ccad96d/pycodestyle-2.8.0-py2.py3-none-any.whl
-pydocstyle @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/76/51/27/5fedbe9b911687054391ee48811ebde649f80f6f5833a6f2c00c896338/pydocstyle-6.1.1-py3-none-any.whl
-pyflakes @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/e7/19/53/bae1a38831f54ce33cffad8f06e90b911ed4beb5f2e985bc465751a1a1/pyflakes-2.5.0-py2.py3-none-any.whl
-Pygments @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/a4/25/5e/e91fc50f64ea2fdfe34dda0c549820b87ebed679822b94b690f8ab80d3/Pygments-2.12.0-py3-none-any.whl
-pylint @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/7e/0e/12/03bb68cf5cbe08a52a94bf43043bfc5491385802ee76d0e5de5fc0852e/pylint-2.14.5-py3-none-any.whl
-pylint-celery==0.3
-pylint-django @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/89/63/d1/c37fec201af7b7c495c72951d6c537c65abc016ceb6796b58e43c91051/pylint_django-2.5.3-py3-none-any.whl
-pylint-flask==0.6
-pylint-plugin-utils @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/c9/b6/bc/a16c1cf06b5ee3e8d1b2fe29625cd670d2aed4e34f9e3e17735452951f/pylint_plugin_utils-0.7-py3-none-any.whl
-PyYAML @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/35/4d/45/b2142abd2ac771fdc795573de08522db0ff795d8e0a5c06f8baf9833e9/PyYAML-6.0-cp310-cp310-win_amd64.whl
-requirements-detector==0.7
-setoptconf-tmp @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/b8/ca/87/3e94ec79264fbf47e2d11d7ed662789b9a66ba32a6d4231f0e517b944d/setoptconf_tmp-0.3.1-py3-none-any.whl
-six @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/89/b2/f8/fd92b6d5daa0f8889429b2fc67ec21eedc5cae5d531ee2853828ced6c7/six-1.16.0-py2.py3-none-any.whl
-snowballstemmer @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/c4/88/1b/a9b3e7fb8e193ad3ed607c754eb234b06cbd6f0a43289406a2dc4eddbf/snowballstemmer-2.2.0-py2.py3-none-any.whl
-sqlparse @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/10/f5/22/c9c991a71e27c4d8f69907d92cce74a369cbb3183dc4a6d27e2ae4ab0b/sqlparse-0.4.2-py3-none-any.whl
-stack-data @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/dd/3c/e9/2a2372a9fcf6b815f2e2fd4ff77404330254c89e2f1951e270e2b5e340/stack_data-0.3.0-py3-none-any.whl
-toml @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/51/ac/24/674da558495229c57c3d2333cb23e24aac7aadf723ced29e2cc41a9e6e/toml-0.10.2-py2.py3-none-any.whl
-tomli @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/62/12/b6/6db9ebb9c8e1a6c5aa8a92ae73098d8119816b5e8507490916621bc305/tomli-2.0.1-py3-none-any.whl
-tomlkit @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/bf/c9/54/0166944634818be1815542a4bf19906975f8591a52f1fb7fcc4f7e76d7/tomlkit-0.11.1-py3-none-any.whl
-traitlets @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/53/15/93/baa3154d23b1bdf2bc5aa0d1c9dabcad010f3942e6566bf896553521b9/traitlets-5.3.0-py3-none-any.whl
-tzdata @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/cb/cf/58/d3781360e8d88c03434141c34bb31c6a69dd4113aacf419a5fc992aac4/tzdata-2022.1-py2.py3-none-any.whl
-wcwidth @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/f1/2c/b7/d07af82a7caf20dd582cb8799baa7afd56c6240109e527ee2a904b43e4/wcwidth-0.2.5-py2.py3-none-any.whl
-whitenoise @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/39/03/50/ad1176a013bab2448267984096fb10e586d64f3dbc5da1ea1bf59171ec/whitenoise-6.2.0-py3-none-any.whl
-wrapt @ file:///C:/Users/josed/AppData/Local/pypoetry/Cache/artifacts/5f/cc/a7/198da407e2eda65d0b4df86e0fed9a1d66ae808535b8536ed205769acf/wrapt-1.14.1-cp310-cp310-win_amd64.whl
+appnope==0.1.3; sys_platform == "darwin" and python_version >= "3.8"
+asgiref==3.5.2; python_version >= "3.8"
+astroid==2.11.7; python_full_version >= "3.7.2" and python_version < "4.0"
+asttokens==2.0.5; python_version >= "3.8"
+backcall==0.2.0; python_version >= "3.8"
+black==22.6.0; python_full_version >= "3.6.2"
+click==8.1.3; python_version >= "3.7" and python_full_version >= "3.6.2"
+colorama==0.4.5; python_full_version >= "3.7.2" and python_version < "4.0" and sys_platform == "win32" and python_version >= "3.7" and platform_system == "Windows" and (python_version >= "3.8" and python_full_version < "3.0.0" and sys_platform == "win32" or sys_platform == "win32" and python_version >= "3.8" and python_full_version >= "3.5.0")
+decorator==5.1.1; python_version >= "3.8"
+dill==0.3.5.1; python_full_version >= "3.7.2" and python_version < "4.0"
+dj-database-url==1.0.0
+django-extensions==3.2.0; python_version >= "3.6"
+django-heroku==0.3.1
+django-widget-tweaks==1.4.12; python_version >= "3.7"
+django==4.1; python_version >= "3.8"
+dodgy==0.2.1; python_full_version >= "3.6.2" and python_version < "4.0"
+executing==0.9.1; python_version >= "3.8"
+flake8-polyfill==1.0.2; python_full_version >= "3.6.2" and python_version < "4.0"
+flake8==2.3.0; python_full_version >= "3.6.2" and python_version < "4.0"
+ipdb==0.13.9; python_version >= "2.7"
+ipython==8.4.0; python_version >= "3.8"
+isort==5.10.1; python_full_version >= "3.6.1" and python_version < "4.0"
+jedi==0.18.1; python_version >= "3.8"
+lazy-object-proxy==1.7.1; python_full_version >= "3.7.2" and python_version < "4.0" and python_version >= "3.6"
+matplotlib-inline==0.1.3; python_version >= "3.8"
+mccabe==0.6.1; python_full_version >= "3.7.2" and python_version < "4.0"
+mypy-extensions==0.4.3; python_full_version >= "3.6.2"
+parso==0.8.3; python_version >= "3.8"
+pathspec==0.9.0; python_full_version >= "3.6.2"
+pep8-naming==0.10.0; python_full_version >= "3.6.2" and python_version < "4.0"
+pep8==1.7.1; python_full_version >= "3.6.2" and python_version < "4.0"
+pexpect==4.8.0; sys_platform != "win32" and python_version >= "3.8"
+pickleshare==0.7.5; python_version >= "3.8"
+platformdirs==2.5.2; python_version >= "3.7" and python_full_version >= "3.7.2" and python_version < "4.0"
+prompt-toolkit==3.0.30; python_full_version >= "3.6.2" and python_version >= "3.8"
+prospector==1.7.7; python_full_version >= "3.6.2" and python_version < "4.0"
+psycopg2-binary==2.9.3; python_version >= "3.6"
+psycopg2==2.9.3; python_version >= "3.6"
+ptyprocess==0.7.0; sys_platform != "win32" and python_version >= "3.8"
+pure-eval==0.2.2; python_version >= "3.8"
+pycodestyle==2.8.0; python_full_version >= "3.6.2" and python_version < "4.0"
+pydocstyle==6.1.1; python_full_version >= "3.6.2" and python_version < "4.0" and python_version >= "3.6"
+pyflakes==2.5.0; python_full_version >= "3.6.2" and python_version < "4.0" and python_version >= "3.6"
+pygments==2.12.0; python_version >= "3.8"
+pylint-celery==0.3; python_full_version >= "3.6.2" and python_version < "4.0"
+pylint-django==2.5.3; python_full_version >= "3.6.2" and python_version < "4.0"
+pylint-flask==0.6; python_full_version >= "3.6.2" and python_version < "4.0"
+pylint-plugin-utils==0.7; python_full_version >= "3.6.2" and python_version < "4.0"
+pylint==2.14.5; python_full_version >= "3.7.2" and python_version < "4.0"
+pyyaml==6.0; python_full_version >= "3.6.2" and python_version < "4.0" and python_version >= "3.6"
+requirements-detector==0.7; python_full_version >= "3.6.2" and python_version < "4.0"
+setoptconf-tmp==0.3.1; python_full_version >= "3.6.2" and python_version < "4.0"
+six==1.16.0; python_version >= "3.8" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.8"
+snowballstemmer==2.2.0; python_full_version >= "3.6.2" and python_version < "4.0" and python_version >= "3.6"
+sqlparse==0.4.2; python_version >= "3.8"
+stack-data==0.3.0; python_version >= "3.8"
+toml==0.10.2; python_full_version >= "3.6.2" and python_version < "4.0" and (python_version > "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version > "3.6")
+tomli==2.0.1; python_full_version < "3.11.0a7" and python_full_version >= "3.7.2" and python_version >= "3.7" and python_version < "3.11"
+tomlkit==0.11.1; python_version >= "3.6" and python_version < "4.0" and python_full_version >= "3.7.2"
+traitlets==5.3.0; python_version >= "3.8"
+typing-extensions==4.3.0; python_version < "3.10" and python_full_version >= "3.7.2" and python_version >= "3.7"
+tzdata==2022.1; sys_platform == "win32" and python_version >= "3.8"
+wcwidth==0.2.5; python_full_version >= "3.6.2" and python_version >= "3.8"
+whitenoise==6.2.0; python_version >= "3.7"
+wrapt==1.14.1; python_full_version >= "3.7.2" and python_version < "4.0"
