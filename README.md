@@ -5,10 +5,10 @@
 Estas preguntas se encuentran dentro de la carpeta razonamiento
 
 ### encuentra_y_multiplica
-Esta función recibe como entrada una lista y un valor objetivo, esta encuentra 2 números que suemen el target y luego devuvleve su multiplicación. Si no encuentra ningún par esta devuvlve none
+Esta función recibe como entrada una lista y un valor objetivo, esta encuentra 2 números que suemen el target y luego devuvleve su multiplicación. Si no encuentra ningún par esta retorna none
 
 ### parentesis
-Esta función recibe como entrada un string con paréntesis y esta devuvlve true si estos están balanceados y false en otro caso.
+Esta función recibe como entrada un string con paréntesis y esta retorna true si estos están balanceados y false en otro caso.
 
 ## Parte 2 MVP Notificación cambio de tas
 
