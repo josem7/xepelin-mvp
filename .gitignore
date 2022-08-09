@@ -66,4 +66,4 @@ celerybeat-schedule
 celerybeat.pid
 
 poetry.lock
-.env_vars
+.env
